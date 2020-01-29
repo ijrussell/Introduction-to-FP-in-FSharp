@@ -1,0 +1,21 @@
+Code From This Session
+
+https://www.softwarepark.cc/blog
+
+F# Websites
+
+https://fsharp.org/
+https://fsharpforfunandprofit.com/
+https://sergeytihon.com/category/f-weekly/
+
+Books
+
+Get Programming With F# by Isaac Abraham (Manning Publications)
+Stylish F# by Kit Eason (Apress)
+Domain Modelling Made Functional by Scott Wlaschin (Pragmatic Programming)
+
+Example Code/Exercises
+
+http://www.fsharpworkshop.com/
+https://github.com/CompositionalIT/SAFE-Dojo
+https://github.com/ChrisMarinos/FSharpKoans#functional-koans---f
