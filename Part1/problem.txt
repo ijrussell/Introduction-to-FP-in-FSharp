@@ -16,3 +16,6 @@ Examples:
 |John       |  100.00|   90.00|
 |Richard    |  100.00|  100.00|
 |Sarah      |  100.00|  100.00|
+
+Thanks to Chris Roff (@bddkickstarter) for creating this feature file.
+https://medium.com/@bddkickstarter/functional-bdd-5014c880c935
